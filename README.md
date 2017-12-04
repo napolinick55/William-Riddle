@@ -1,7 +1,7 @@
 # William-Riddle
 This is a repository for project code for CS304.
 
-The sample code provided is from a class project in Java using the NetBeans IDE.
+The sample code provided, Lab8Riddle, is from a class project in Java using the NetBeans IDE.
 
 
 In the main class, the program creates an array of random numbers between 10 and 99.
