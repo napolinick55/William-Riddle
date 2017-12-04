@@ -11,11 +11,11 @@ The range of 10 to 99 was to keep all the numbers at 2 digits each to more easil
 
 After the array is created, the class bubbleSort is called using the argument "sorter", which is the array created in main.
 
-bubbleSort then creats a false boolean variable "cleanrun" which will be the control for the sorting loop.
+bubbleSort then creates a false boolean variable "cleanrun" which will be the control for the sorting loop.
 
 Starting with array index 0 and array index idex 1 the values stored in the two are compared and are swapped if the values are out of order.
 
-At the start of each loop, the "cleanrun" is set to true, and bill be set back to false again if a swap of values occurs.
+At the start of each loop, the "cleanrun" is set to true, and will be set back to false again if a swap of values occurs.
 
 For the purpose of displaying the sorting action, the original array of values is printed in a single line along with the pass number starting with zero.  This output allows the numbers to be viewd "bubbling up" to their correct position in the sort.
 
