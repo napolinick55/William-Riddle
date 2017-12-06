@@ -16,7 +16,7 @@ public class Lab8Riddle {
         
         int[] sorter = new int[sortSize];
         
-        //Filll an array of type int named "sorter" of length sortSize
+        //Fill an array of type int named "sorter" of length sortSize
         for (int i=0; i < sortSize; i++){
             sorter[i] = (int)(Math.random()*89)+10;
         }
