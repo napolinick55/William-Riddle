@@ -13,7 +13,7 @@ After the array is created, the class bubbleSort is called using the argument "s
 
 bubbleSort then creates a false boolean variable "cleanrun" which will be the control for the sorting loop.
 
-Starting with array index 0 and array index idex 1 the values stored in the two are compared and are swapped if the values are out of order.
+Starting with array index 0 and array index 1 the values stored in the two are compared and are swapped if the values are out of order.
 
 At the start of each loop, the "cleanrun" is set to true, and will be set back to false again if a swap of values occurs.
 
